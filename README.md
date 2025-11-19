@@ -1,4 +1,4 @@
-# 3D Perspective Glitch Hover Effect
+# 3D Perspective Glitch Hover Effect.
 
 A fun hover effect that shows a pixelated image with a glitch animation as seen on [buōy's website](https://buoy.work/gallery/).
 
